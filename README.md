@@ -18,7 +18,7 @@ Building **SolarOps** was a collaborative effort that involved combining differe
 - **Machine Learning Models**: We used **Convolutional Neural Networks (CNNs)** and **Gradient Boost Algorithm** to detect faults in solar panels and forecast energy generation.
 - **Real-time Data Integration**: We pulled in weather data from meteomatics API to help predict solar energy output and assess the best locations for solar panels.
 - **Interactive Heatmaps**: Using the data we gathered, we created heatmaps that visually display the best areas for solar panel placement.
-- **Web Platform**: We built an easy-to-use web interface where grid operators can track performance, upload images for fault detection, and get insights into energy production.
+- **Web Platform**: We built an easy-to-use web interface using **MERN Stack** where grid operators can track performance, upload images for fault detection, and get insights into energy production.
 
 ## **Challenges we ran into 🚧**
 
