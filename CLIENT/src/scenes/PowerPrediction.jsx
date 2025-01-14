@@ -42,8 +42,8 @@ const PowerPrediction = () => {
 
 
   const fetchToken = async () => {
-    const username = "nustuniversity_ali_rukhsana";
-    const password = "9jwN4ru2DJ";
+    const username = "xyz_muhammadakram_kanza";
+    const password = "2NT35y0iEv";
     try {
       const response = await axios.get(
         "https://cors-anywhere.herokuapp.com/https://login.meteomatics.com/api/v1/token",
